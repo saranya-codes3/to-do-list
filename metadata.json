@@ -1,0 +1,6 @@
+{
+  "name": "little.day",
+  "description": "A little progress every day — an aesthetic, calm to-do list and daily planner powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
